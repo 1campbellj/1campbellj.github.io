@@ -1,4 +1,7 @@
 <head>
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/econo.css">
+  {% if page.style %}
+  <link rel="stylesheet" href="{{ page.style }}">
+  {% endif %}
 </head>
