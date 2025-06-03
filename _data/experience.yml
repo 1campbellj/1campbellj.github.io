@@ -1,0 +1,44 @@
+- company: Merit America
+  position: Senior Software Engineer III
+  duration: 2022 &mdash; Present
+  summary: 
+    <ul class="resume-item-list">
+      <li>Founding engineer of a team of 9 that included 5 engineers</li>
+      <li>Hired and mentored 3 engineers and defined team processes and norms</li>
+      <li>Architected a new Rails 8 monolith focused on centralizing learner admissions and status tracking, reducing the onboarding flow from four apps and emails to one app, increasing completion rates and enabling new features and experimentation</li>
+      <li>Extracted dozens of cross-team core business models from Salesforce into our Rails app, establishing the foundation for a data warehouse that enabled migration of key reporting functions from Salesforce to Hex, improving data quality and analytics capabilities</li>
+      <li>Led numerous large projects to implement internal tools for learner coaches, decreasing time spent on toil and increasing face to face time with learners</li>
+      <li>Authored 15+ Architecture Decision Records (ADRs) on diverse topics to push the team towards agreement on healthy patterns</li>
+      <li>Documented and iterated on team processes to drive healthy patterns for product development, code reviews, team retros, pull requests, and project roles</li>
+    </ul>
+
+- company: Sharethrough
+  position: Director of Digital Strategy
+  duration: 2018 &mdash; 2022
+  summary: 
+    <ul class="resume-item-list">
+      <li>Rebuilt internal JavaScript ad rendering library, reducing bundle size by 40% and doubling feature development speed</li>
+      <li>Designed and implemented full-stack features across multiple Rails applications, including sunsetting legacy tools and launching new platforms</li>
+      <li>Refactored front-end systems using React, replacing legacy Angular codebases to improve maintainability and performance</li>
+      <li>Led data infrastructure improvements by designing scalable ETL strategies using SQL, Snowflake, and Airflow, boosting data throughput by 300%</li>
+    </ul>
+
+- company: Spiceworks
+  position: Staff Software Engineer
+  duration: 2014 &mdash; 2018
+  summary:
+    <ul class="resume-item-list">
+      <li>Directed frontend architecture decisions for high-traffic page rebuilds</li>
+      <li>Delivered high-impact Rails features focused on user engagement</li>
+      <li>Built and maintained RESTful API integrations to streamline third-party signup and messaging systems</li>
+      <li>Provided mentorship, conducted code reviews, and served as a key advisor in system design and team development</li>
+    </ul>
+
+- company: National Instruments (NI)
+  position: Programmer/Analyst
+  duration: 2010 &mdash; 2014
+  summary:
+    <ul class="resume-item-list">
+      <li>Developed SQL-based data warehousing and ETL tools to support BI and reporting</li>
+      <li>Enhanced internal web tools with interactive JavaScript/jQuery features for better user experience</li>
+    </ul>

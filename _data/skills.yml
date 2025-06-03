@@ -1,0 +1,46 @@
+- skill: Backend
+  description:
+    Ruby on Rails (10+ years) &bull;
+    Ruby &bull;
+    RESTful APIs &bull;
+    ActiveJob
+
+- skill: Frontend
+  description:
+    JavaScript &bull;
+    TypeScript &bull;
+    Hotwire/Turbo/Stimulus &bull;
+    React
+
+- skill: Testing
+  description:
+    TDD &bull;
+    Minitest &bull;
+    RSpec &bull;
+    FactoryBot
+
+- skill: Infrastructure
+  description:
+    AWS &bull;
+    Heroku &bull;
+    Terraform
+
+- skill: Data
+  description:
+    PostgreSQL &bull;
+    MySQL &bull;
+    Redis &bull;
+    GoodJob/Sidekiq &bull;
+    BigQuery &bull;
+    Snowflake
+
+- skill: Tools & Practices
+  description:
+    Git &bull;
+    CI/CD &bull;
+    TDD &bull;
+    ShapeUp &bull;
+    Agile &bull;
+    Code review &bull;
+    OTEL/Honeycomb
+
